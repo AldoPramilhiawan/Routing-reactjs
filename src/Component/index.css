@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    font-family: "roboto slab";
+  }
+  
+  .jumbroton {
+    background-image: url("bg.jpg");
+    background-size: 600px;
+    height: 500px;
+  }
+  
+  .btn-warning {
+    background-color: #ff9900;
+    border-radius: 10px;
+    box-shadow: opx 2px 2px black !important;
+  }
+  
+  .btn-warning:hover {
+    background-color: #ffb341;
+  }
+  
+  .footer {
+    line-height: 50px;
+    margin-bottom: 0;
+  }
+  
